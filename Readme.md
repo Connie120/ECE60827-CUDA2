@@ -1,8 +1,8 @@
 # ECE 60827 CUDA Programming Part 2
 
-## Professor Tim Rogers <br> TA: Christin Bose
+## Professor T. N. Vijaykumar <br> TA: Ni Kang
 
-## Due on February 24, 2024
+## Due on Saturday, Feburary 15 at 11:59 PM ET (02/16 at 04:59 UTC)
 # Introduction
 
 
@@ -257,7 +257,7 @@ typedef struct TensorShape_t
 - Load the `gcc`, `cuda` and `cmake` modules
 	To avoid typing this every time, consider adding this command to `~/.bashrc`.
     ```bash
-    $ module load gcc cuda cmake
+    $ module load gcc/11.4.1 cuda
     ```
 	.
 - Activate the python virtual environment setup within the assignment directory
